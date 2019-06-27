@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="127" height="74" viewBox="0 0 127 74">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="127" height="74" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="LOGO" clip-path="url(#clip-path)">
+    <text id="SUFU" fill="#7bf97b" font-size="50" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="54">SUFU</tspan></text>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="34" height="26" transform="translate(30 11)" fill="#7bf97b"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="34" height="26" transform="translate(92 11)" fill="#7bf97b"/>
+    <line id="Line_1" data-name="Line 1" y2="12" transform="translate(39.5 23.5)" fill="none" stroke="#707070" stroke-width="5"/>
+    <line id="Line_2" data-name="Line 2" y2="12" transform="translate(52.5 23.5)" fill="none" stroke="#707070" stroke-width="5"/>
+    <line id="Line_3" data-name="Line 3" y2="12" transform="translate(101.5 23.5)" fill="none" stroke="#707070" stroke-width="5"/>
+    <line id="Line_4" data-name="Line 4" y2="12" transform="translate(114.5 23.5)" fill="none" stroke="#707070" stroke-width="5"/>
+  </g>
+</svg>
